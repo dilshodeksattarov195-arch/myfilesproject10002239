@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssonnect",
+        "uuid": 8967195,
+        "checksum": "5gpp1v"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
